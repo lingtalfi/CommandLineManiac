@@ -1,11 +1,11 @@
 <?php
 
-namespace CommandLineManiac;
+namespace Ling\CommandLineManiac;
 
 /*
  * LingTalfi 2015-10-04
  */
-use CommandLineManiac\Exception\SilentException;
+use Ling\CommandLineManiac\Exception\SilentException;
 
 class GetOptTool
 {

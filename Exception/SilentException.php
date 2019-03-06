@@ -1,6 +1,6 @@
 <?php
 
-namespace CommandLineManiac\Exception;
+namespace Ling\CommandLineManiac\Exception;
 
 /*
  * LingTalfi 2015-10-04
